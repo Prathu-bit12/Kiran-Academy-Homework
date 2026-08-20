@@ -1,0 +1,55 @@
+.div4{
+    width: 600px;
+    height: 1000px;
+    background-color: pink;
+    margin-left: 800px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.div1{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    text-align: center;
+    margin-left: 230px;
+    margin-top: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    border-radius: 50%;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+
+.div2{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    margin-left: 230px;
+    margin-top: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div3{
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+    margin-left: 230px;
+    text-align: center;
+    margin-top: 150px;
+    padding-top: 50px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+}
